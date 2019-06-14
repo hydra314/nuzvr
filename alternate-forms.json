@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Wormadam-Plant",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/413.png[/img]"
+    },
+    {
+        "name": "Wormadam-Sandy",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/413-s.png[/img]"
+    },
+    {
+        "name": "Wormadam-Trash",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/413-t.png[/img]"
+    },
+    {
+        "name": "Deoxys-Attack",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/386a.png[/img]"
+    },
+    {
+        "name": "Deoxys-Defense",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/386d.png[/img]"
+    },
+    {
+        "name": "Deoxys-Speed",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/386s.png[/img]"
+    },
+    {
+        "name": "Rotom-Heat",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/479h.png[/img]"
+    },
+    {
+        "name": "Rotom-Wash",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/479w.png[/img]"
+    },
+    {
+        "name": "Rotom-Mow",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/479m.png[/img]"
+    },
+    {
+        "name": "Rotom-Frost",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/479f.png[/img]"
+    },
+    {
+        "name": "Rotom-Fan",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/479s.png[/img]"
+    },
+    {
+        "name": "Giratina-Origin",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/487o.png[/img]"
+    },
+    {
+        "name": "Shaymin-Sky",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/492s.png[/img]"
+    },
+    {
+        "name": "Kyurem-Black",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/646-b.png[/img]"
+    },
+    {
+        "name": "Kyurem-White",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/646-w.png[/img]"
+    },
+    {
+        "name": "Zygarde-10%",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/718-10.png[/img]"
+    },
+    {
+        "name": "Zygarde-Complete",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/718-c.png[/img]"
+    },
+    {
+        "name": "Hoopa-Unbound",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/720-u.png[/img]"
+    },
+    {
+        "name": "Oricorio-Baile",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/741.png[/img]"
+    },
+    {
+        "name": "Oricorio-Pom-Pom",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/741-p.png[/img]"
+    },
+    {
+        "name": "Oricorio-Sensu",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/741-s.png[/img]"
+    },
+    {
+        "name": "Oricorio-Pom-Pom",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/741-p.png[/img]"
+    },
+    {
+        "name": "Oricorio-P'au",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/741-pau.png[/img]"
+    },
+    {
+        "name": "Lycanroc-Midday",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/745.png[/img]"
+    },
+    {
+        "name": "Lycanroc-Midnight",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/745-m.png[/img]"
+    },
+    {
+        "name": "Lycanroc-Dusk",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/745-d.png[/img]"
+    },
+    {
+        "name": "Necrozma-Dusk-Mane",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/800-dm.png[/img]"
+    },
+    {
+        "name": "Necrozma-Dawn-Wings",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/800-dw.png[/img]"
+    }
+]
