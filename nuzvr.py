@@ -62,6 +62,7 @@ def main():
         inputPokemon = GetInputFile()
 
         for pokemon in inputPokemon:
+            print(GetImageByName(pokedex, alt, pokemon))
             with open('output.txt', 'a') as fp:
                 fp.write(GetImageByName(pokedex, alt, pokemon) + '\n')
 
