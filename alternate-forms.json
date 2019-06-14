@@ -110,5 +110,29 @@
     {
         "name": "Necrozma-Dawn-Wings",
         "image": "[img]https://www.serebii.net/pokedex-sm/icon/800-dw.png[/img]"
+    },
+    {
+        "name": "Landorus-Therian",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/645-s.png[/img]"
+    },
+    {
+        "name": "Tornadus-Therian",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/641-s.png[/img]"
+    },
+    {
+        "name": "Thundurus-Therian",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/642-s.png[/img]"
+    },
+    {
+        "name": "Cosplay Pikachu",
+        "image": "[img]https://www.serebii.net/pokedex-xy/icon/025-b.png[/img]"
+    },
+    {
+        "name": "Pikachu (Partner)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/025-p.png[/img]"
+    },
+    {
+        "name": "Eevee (Partner)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/133.png[/img]"
     }
 ]
