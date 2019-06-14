@@ -11,7 +11,7 @@ def GetImageByName(pokedex, alternateForms, pokeName):
         if pokeName == pokemon['name']:
             return pokemon['image'] + ' ' + pokeName
 
-def GetInputFile(filename):
+def GetInputFile(filename = 'pokemon.txt'):
     pokemon = []
     with open(filename, 'r', encoding='utf8') as fp:
         for line in fp:
@@ -45,10 +45,11 @@ def GenerateImageLink(dexNum):
     return '[img]https://www.serebii.net/pokedex-sm/icon/' + dexNum + '.png[/img]'
 
 def main():
+    open('output.txt', 'w').close()
     with open('pokedex.json', 'r', encoding='utf8') as dexFile:
         pokedex = json.load(dexFile)
         alt = GetAlternateForms()
-        instructions = 'Put the list of Pokemon in a text file. Give each Pokemon its own line. \n- Megas should be in the format \'Mega Lucario\', same goes for Primals.\n- Alolan Forms should be in the format \'Alolan Marowak\'.\n- The following alternate forms are accepted: '
+        instructions = 'Put the list of Pokemon in pokemon.txt. Give each Pokemon its own line. \n- Megas should be in the format \'Mega Lucario\', same goes for Primals.\n- Alolan Forms should be in the format \'Alolan Marowak\'.\n- The following alternate forms are accepted: '
         formsList = []
         for form in alt:
             formsList.append(form['name'])
@@ -56,10 +57,11 @@ def main():
         
         print(instructions, end='')
         print(alternateForms)
-        filename = input('File name: ')
-        inputPokemon = GetInputFile(filename)
+        # filename = input('File name: ')
+        inputPokemon = GetInputFile()
 
         for pokemon in inputPokemon:
-            print(GetImageByName(pokedex, alt, pokemon))
+            with open('output.txt', 'a') as fp:
+                fp.write(GetImageByName(pokedex, alt, pokemon) + '\n')
 
 main()
