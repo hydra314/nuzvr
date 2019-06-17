@@ -134,5 +134,65 @@
     {
         "name": "Eevee (Partner)",
         "image": "[img]https://www.serebii.net/pokedex-sm/icon/133.png[/img]"
+    },
+    {
+        "name": "Azumarill (Huge Power)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/184.png[/img]"
+    },
+    {
+        "name": "Azumarill (Thick Fat)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/184.png[/img]"
+    },
+    {
+        "name": "Ninetales (Flash Fire)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/038.png[/img]"
+    },
+    {
+        "name": "Ninetales (Drought)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/038.png[/img]"
+    },
+    {
+        "name": "Kecleon (Protean)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/352.png[/img]"
+    },
+    {
+        "name": "Kecleon (Color Change)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/352.png[/img]"
+    },
+    {
+        "name": "Torkoal (Drought)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/324.png[/img]"
+    },
+    {
+        "name": "Torkoal (White Smoke)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/324.png[/img]"
+    },
+    {
+        "name": "Pelipper (Drizzle)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/279.png[/img]"
+    },
+    {
+        "name": "Pelipper (Keen Eye)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/279.png[/img]"
+    },
+    {
+        "name": "Vanilluxe (Snow Warning)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/584.png[/img]"
+    },
+    {
+        "name": "Vanilluxe (Ice Body)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/584.png[/img]"
+    },
+    {
+        "name": "Pikachu (Light Ball)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/025.png[/img]"
+    },
+    {
+        "name": "Clamperl (DeepSeaTooth)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/366.png[/img]"
+    },
+    {
+        "name": "Clamperl (DeepSeaScale)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/366.png[/img]"
     }
 ]
