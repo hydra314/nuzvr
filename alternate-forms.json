@@ -194,5 +194,21 @@
     {
         "name": "Clamperl (DeepSeaScale)",
         "image": "[img]https://www.serebii.net/pokedex-sm/icon/366.png[/img]"
+    },
+    {
+        "name": "Gourgeist (Small)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/711-s.png[/img]"
+    },
+    {
+        "name": "Gourgeist (Average)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/711.png[/img]"
+    },
+    {
+        "name": "Gourgeist (Large)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/711-l.png[/img]"
+    },
+    {
+        "name": "Gourgeist (Super)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/711-h.png[/img]"
     }
 ]
