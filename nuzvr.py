@@ -4,8 +4,13 @@ def GetImageByName(pokedex, alternateForms, pokeName):
     for pokemon in pokedex:
         if pokeName == pokemon['name']:
             return GenerateImageLink(FormatNumber(pokemon['id'])) + ' ' + pokeName
-        elif pokeName == 'Mega ' + pokemon['name'] or pokeName == 'Primal ' + pokemon['name'] or pokeName == 'Alolan ' + pokemon['name']:
+        elif pokeName == 'Mega ' + pokemon['name'] or \
+            pokeName == 'Primal ' + pokemon['name'] or \
+            pokeName == 'Alolan ' + pokemon['name']:
             return GenerateImageLink(FormatNumber(pokemon['id']) + MegaOrPrimalOrAlolan(pokeName)) + ' ' + pokeName
+        elif pokeName == 'Mega ' + pokemon['name'] + ' X' or \
+            pokeName == 'Mega ' + pokemon['name'] + ' Y':
+            return GenerateImageLink(FormatNumber(pokemon['id']) + MegaOrPrimalOrAlolan(pokeName) + pokeName[-1].lower()) + ' ' + pokeName
     
     for pokemon in alternateForms:
         if pokeName == pokemon['name']:

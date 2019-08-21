@@ -210,5 +210,13 @@
     {
         "name": "Gourgeist (Super)",
         "image": "[img]https://www.serebii.net/pokedex-sm/icon/711-h.png[/img]"
+    },
+    {
+        "name": "Meowstic-M",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/678.png[/img]"
+    },
+    {
+        "name": "Meowstic-F",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/678-f.png[/img]"
     }
 ]
