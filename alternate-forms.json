@@ -218,5 +218,21 @@
     {
         "name": "Meowstic-F",
         "image": "[img]https://www.serebii.net/pokedex-sm/icon/678-f.png[/img]"
+    },
+    {
+        "name": "Scyther (Technician)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/123.png[/img]"
+    },
+    {
+        "name": "Scyther (Swarm)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/123.png[/img]"
+    },
+    {
+        "name": "Scizor (Technician)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/212.png[/img]"
+    },
+    {
+        "name": "Scizor (Swarm)",
+        "image": "[img]https://www.serebii.net/pokedex-sm/icon/212.png[/img]"
     }
 ]
